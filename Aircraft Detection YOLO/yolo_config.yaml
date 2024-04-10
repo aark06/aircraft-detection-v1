@@ -1,0 +1,7 @@
+
+train: C:/Users/Admin/Desktop/RS OEA/data/train
+val: C:/Users/Admin/Desktop/RS OEA/data/val
+test: C:/Users/Admin/Desktop/RS OEA/data/test
+nc: 1
+
+names: ['Airplane']
